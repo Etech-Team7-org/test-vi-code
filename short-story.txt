@@ -1,17 +1,17 @@
-**The Tangled Pipeline of john, the DevOps Engineer**
+**The Tangled Pipeline of steeve, the DevOps Engineer**
 
-john, the DevOps engineer, stared intently at his screen. The pipeline, that crucial pipeline, 
+steeve, the DevOps engineer, stared intently at his screen. The pipeline, that crucial pipeline, 
 had failed again. He had been working on this pipeline for days, tweaking, adjusting, and refining. 
 But the pipeline, oh, that stubborn pipeline, just wouldn’t cooperate.
 
-Every morning, john would grab his coffee, and his first word would be, "Pipeline." 
+Every morning, steeve would grab his coffee, and his first word would be, "Pipeline." 
 To anyone who asked how his day was, he’d reply, "Pipeline troubles." The pipeline 
 had become his world. It was the last piece in the new deployment strategy, and if 
 this pipeline worked, it would be a game-changer.
 
 His colleague, Jane, noticed the repetitive mention of the "pipeline". She approached 
-john and said, "john, I've worked on a similar pipeline before. Maybe, just maybe, 
-I could help untangle this pipeline issue?" john, desperate and willing to try anything, 
+steeve and said, "steeve, I've worked on a similar pipeline before. Maybe, just maybe, 
+I could help untangle this pipeline issue?" steeve, desperate and willing to try anything, 
 nodded eagerly.
 
 Together, they dove deep into the pipeline's logs, configurations, and scripts. The pipeline, 
@@ -25,6 +25,6 @@ triggered the pipeline.
 Success! The pipeline ran smoothly, deploying every component seamlessly. Their relentless focus on the pipeline 
 had paid off. The duo, having tackled the most stubborn pipeline of their careers, celebrated their victory.
 
-From that day on, whenever anyone in the office faced a challenging task, they'd say, "Remember john's pipeline," 
+From that day on, whenever anyone in the office faced a challenging task, they'd say, "Remember steeve's pipeline," 
 a phrase that symbolized perseverance, collaboration, and eventual success. The story of the pipeline became legendary, 
 reminding everyone of the power of persistence and teamwork.
